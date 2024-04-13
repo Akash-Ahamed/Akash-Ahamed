@@ -6,7 +6,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  <img src="https://github.com/Akash-Ahamed/Akash-Ahamed/tree/0ae03c057abd50c8b1a7f975064f6137626b8001/assets/SQL.svg.svg" alt="dart22" width="40" height="40"/>
+  <img src="" alt="dart22" width="40" height="40"/>
+  ![logo] ()
   
 </p>
 <h3 align="left"> Database:</h3>
