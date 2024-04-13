@@ -10,9 +10,12 @@
   
 </p>
 <h3 align="left"> Database:</h3>
+<p align = "left"> 
+  <img src="assets/mysql.svg" alt="sql" width="60" height="60"/>
+
+</p>
 <h3 align="left"> Analytical Tools:</h3>
 <h3 align="left"> Framework:</h3>
 <h3 align="left"> Project Management Tools:</h3>
-
 
 
