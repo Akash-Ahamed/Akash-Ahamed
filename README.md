@@ -1,7 +1,7 @@
 ![logo](banner2.png)
-### Hi there 👋
-### Under the Processing...
-<h1 align="center">Skills</h1>
+<h1 align= "center">👋 Hi, I'm Akash Ahamed!</h1>
+
+<h1>Skills</h1>
 <h3 align="left"> Programming Languages:</h3>
 <p align = "left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
