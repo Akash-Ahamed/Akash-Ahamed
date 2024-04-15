@@ -1,6 +1,6 @@
 ![logo](banner2.png)
 ### Hi there 👋
-
+### Under the Processing...
 <h1 align="center">Skills</h1>
 <h3 align="left"> Programming Languages:</h3>
 <p align = "left"> 
@@ -19,6 +19,7 @@
 <p align = "left">
    <img src="assets/pandas.svg" alt="sql" width="40" height="40"/>
   <img src="assets/numpy.svg" alt="sql" width="40" height="40"/>
+   <img src="assets/matplotlib.svg" alt="sql" width="40" height="40"/>
 </p>
 
 <h3 align="left"> Framework:</h3>
