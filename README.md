@@ -39,7 +39,7 @@
 
 
 <h1 style="color:blue;">Project</h1>
-<p style="font-size: 50px;"> <strong> <em>WhatsApp Chat Analyzer</em> </strong>-Statistical Analysis WebApp [ <strong>Python</strong> | <strong>Pandas</strong> | <strong>Matplotlib</strong> | <strong>Streamlit</strong> | <strong>Heroku</strong> ] <a href="https://www.w3schools.com">Visit W3Schools.com!</a> </p> 
+<p style="font-size: 50px;"> <strong> <em>WhatsApp Chat Analyzer</em> </strong>-Statistical Analysis WebApp <strong>[</strong> <strong>Python</strong> | <strong>Pandas</strong> | <strong>Matplotlib</strong> | <strong>Streamlit</strong> | <strong>Heroku</strong> <strong>]</strong> <a href="https://www.w3schools.com">Link</a> </p> 
 
 >
 >- Built a WhatsApp chat analysis web application that can analyze WhatsApp group or single chats.
