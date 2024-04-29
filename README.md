@@ -43,6 +43,6 @@
 # Project
 ### **WhatsApp Chat Analyzer**-   ####Statistical Analysis Tool/WebApp [Python | Pandas | Matplotlib | Streamlit | Heroku]</p>
 
-I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
+I am in <span style="font-family:Papyrus; font-size:15em;">LOVE!</span>
 
 
