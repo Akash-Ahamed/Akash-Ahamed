@@ -38,15 +38,10 @@
 </p>
 
 <h1 style="color:blue;">Project</h1>
-<p style="font-size:50px;"> <strong> WhatsApp Chat Analyzer </strong>-Statistical Analysis WebApp [<strong>Python</strong> | <strong>Pandas</strong> | <strong>Matplotlib</strong> | <strong>Streamlit</strong> | <strong>Heroku</strong>]</p>
+<p style="font-size: 50px;"> <strong> WhatsApp Chat Analyzer </strong>-Statistical Analysis WebApp [<strong>Python</strong> | <strong>Pandas</strong> | <strong>Matplotlib</strong> | <strong>Streamlit</strong> | <strong>Heroku</strong>]</p>
 
 # Project
 ### **WhatsApp Chat Analyzer**- 
 Statistical Analysis Tool/WebApp [Python | Pandas | Matplotlib | Streamlit | Heroku]</p>
-
-
-<!DOCTYPE html>
-
-<p style="font-size:50px;"> <strong> WhatsApp Chat Analyzer </strong>-Statistical Analysis WebApp [<strong>Python</strong> | <strong>Pandas</strong> | <strong>Matplotlib</strong> | <strong>Streamlit</strong> | <strong>Heroku</strong>]</p>
 
 
