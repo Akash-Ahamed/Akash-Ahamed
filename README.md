@@ -41,4 +41,5 @@
 <h3><span style="font-weight:bold;">WhatsApp Chat Analyzer</span>-Statistical Analysis Tool/WebApp [Python | Pandas | Matplotlib | Streamlit | Heroku]</h3>
 
 # Project
+<h1 style="font-weight: bold"> your text here </h1> 
 
