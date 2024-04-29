@@ -42,9 +42,9 @@
 
 >
 >- Built a WhatsApp chat analysis web application that can analyze WhatsApp group or single chats.
->- Used Python, Pandas, Regex, and Jupyter Notebook for data cleaning and transformation. GitHub as a version control, 
-and for data visualization Matplotlib was used.
->- Used Streamlit and Heroku for web application and deployment.
+>- Used **Python**, **Pandas**, **Regex**, and **Jupyter Notebook** for **data cleaning** and **transformation**. **GitHub** as a version control, 
+and for data visualization **Matplotlib** was used.
+>- Used **Streamlit** and **Heroku** for web application and deployment.
 >
 
 # Project
