@@ -1,5 +1,5 @@
 .md![logo](banner2.png)
-<h1 align= "center">👋 Hi, I'm Akash Ahamed!</h1>
+<h1 align= "center">👋 Hi, I'm <strong>Akash Ahamed!</strong></h1>
 
 <h1>Skills</h1>
 <h3 align="left"> Programming Languages:</h3>
@@ -47,21 +47,6 @@
 and for data visualization **Matplotlib** was used.
 >- Used **Streamlit** and **Heroku** for web application and deployment.
 
-
-# Project
-#### **WhatsApp Chat Analyzer**-  Statistical Analysis Tool/WebApp [**Python** | Pandas | Matplotlib | Streamlit | Heroku]</p>
-
-I am in <span style="font-family:Papyrus; font-size:1000em;">LOVE!</span>
-
-## this a title and <sup>this should be smaller</sup> <sub>or like this</sub>
-### this a title and <sub>or like this</sub>
-
- #### The quarterly results look great!
-  >
-  > - Revenue was off the chart.
-  > - Profits were higher than ever.
-  >
->  *Everything* is going according to **plan**.
 
 
 
