@@ -38,17 +38,17 @@
 </p>
 
 <h1 style="color:blue;">Project</h1>
-> <p style="font-size: 50px;"> <strong> WhatsApp Chat Analyzer </strong>-Statistical Analysis WebApp [<strong>Python</strong> | <strong>Pandas</strong> | <strong>Matplotlib</strong> | <strong>Streamlit</strong> | <strong>Heroku</strong>]</p>
+><p style="font-size: 50px;"> <strong> WhatsApp Chat Analyzer </strong>-Statistical Analysis WebApp [<strong>Python</strong> | <strong>Pandas</strong> | <strong>Matplotlib</strong> | <strong>Streamlit</strong> | <strong>Heroku</strong>]</p>
 
 >
 >>- Built a WhatsApp chat analysis web application that can analyze WhatsApp group or single chats.
 >>- Used **Python**, **Pandas**, **Regex**, and **Jupyter Notebook** for **data cleaning** and **transformation**. **GitHub** as a version control, 
 and for data visualization **Matplotlib** was used.
 >>- Used **Streamlit** and **Heroku** for web application and deployment.
->
+
 
 # Project
-### **WhatsApp Chat Analyzer**-  Statistical Analysis Tool/WebApp [Python | Pandas | Matplotlib | Streamlit | Heroku]</p>
+#### **WhatsApp Chat Analyzer**-  Statistical Analysis Tool/WebApp [**Python** | Pandas | Matplotlib | Streamlit | Heroku]</p>
 
 I am in <span style="font-family:Papyrus; font-size:1000em;">LOVE!</span>
 
