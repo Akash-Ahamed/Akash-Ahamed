@@ -38,7 +38,7 @@
 </p>
 
 <h1>Project</h1>
-<p style="font-size:18px; "> WhatsApp Chat Analyzer</span>-Statistical Analysis Tool/WebApp [Python | Pandas | Matplotlib | Streamlit | Heroku]</p>
+<p style="font-size:18px; "> <strong>WhatsApp Chat Analyzer</strong>strong>-Statistical Analysis Tool/WebApp [Python | Pandas | Matplotlib | Streamlit | Heroku]</p>
 
 # Project
 ### **WhatsApp Chat Analyzer**- 
