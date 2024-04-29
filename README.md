@@ -41,5 +41,6 @@
 <p><span style="font-weight:bold;">WhatsApp Chat Analyzer</span>-Statistical Analysis Tool/WebApp [Python | Pandas | Matplotlib | Streamlit | Heroku]</p>
 
 # Project
-### **WhatsApp Chat Analyzer**- Statistical Analysis Tool/WebApp [Python | Pandas | Matplotlib | Streamlit | Heroku]</p>
+### **WhatsApp Chat Analyzer**- 
+Statistical Analysis Tool/WebApp [Python | Pandas | Matplotlib | Streamlit | Heroku]</p>
 
