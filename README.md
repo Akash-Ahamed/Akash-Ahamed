@@ -46,7 +46,7 @@
 I am in <span style="font-family:Papyrus; font-size:50em;">LOVE!</span>
 
 ## this a title and <sup>this should be smaller</sup> <sub>or like this</sub>
+### this a title and <sub>or like this</sub>
 
-<font size= "15"> This is font size 7</font>
 
 
