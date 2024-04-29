@@ -56,10 +56,10 @@ I am in <span style="font-family:Papyrus; font-size:1000em;">LOVE!</span>
 ### this a title and <sub>or like this</sub>
 
 > #### The quarterly results look great!
->
-> - Revenue was off the chart.
-> - Profits were higher than ever.
->
+  >
+  > - Revenue was off the chart.
+  > - Profits were higher than ever.
+  >
 >  *Everything* is going according to **plan**.
 
 
