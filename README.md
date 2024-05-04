@@ -47,10 +47,17 @@
 and for data visualization **Matplotlib** was used.
 >- Used **Streamlit** and **Heroku** for web application and deployment.
 
-</TR>
-<TR>
-<TD>Cell contents</TD>
-<TD>Cell contents</TD>
-</TR>
-</TABLE>
+
+<table style="border:hidden;"
+<tr>
+    <td>Row 1, Cell 1</td>
+    <td>Row 1, Cell 2</td>
+  </tr>
+  <tr>
+    <td>Row 2, Cell 1</td>
+    <td>Row 2, Cell 2</td>
+  </tr>
+</table>
+
+
 
