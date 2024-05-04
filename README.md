@@ -88,6 +88,6 @@ and for data visualization **Matplotlib** was used.
 </div>
 
 </body>
-
+</html>
 
 
