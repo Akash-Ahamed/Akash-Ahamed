@@ -7,6 +7,7 @@
      <tr>
         <td><h3 align="left"> Programming Languages:</h3></td>
         <td><h3 align="left"> Database:</h3></td>
+         <td><h3 align="left"> Analytical Tools:</h3></td>
      </tr>
      <tr>
        <td><p align = "left"> 
