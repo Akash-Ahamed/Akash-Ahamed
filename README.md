@@ -21,6 +21,13 @@
             <img src="assets/mysql.svg" alt="sql" width="60" height="60"/>
             </p>
         </td>
+
+         <td> <p align = "left">
+   <img src="assets/pandas.svg" alt="sql" width="40" height="40"/>
+  <img src="assets/numpy.svg" alt="sql" width="40" height="40"/>
+   <img src="assets/matplotlib.svg" alt="sql" width="40" height="40"/>
+    </p>
+         </td>
      </tr>
     </table>
     </div>
