@@ -15,7 +15,9 @@
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
   <img src="assets/sql.svg" alt="sql" width="40" height="40"/>
 </p></td>
-        <td> <a href="https://app.daily.dev/sunil-9"><img src="https://api.daily.dev/devcards/426421ecec8c4819927d5698b72edced.png?r=5tr" width="400"                               alt="sunil sapkota's Dev Card"/></a></td>
+        <td> <p align = "left"> 
+  <img src="assets/mysql.svg" alt="sql" width="60" height="60"/>
+</p></td>
      </tr>
     </table>
     </div>
