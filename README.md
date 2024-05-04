@@ -2,11 +2,11 @@
 <h1 align= "center">👋 Hi, I'm <strong>Akash Ahamed!</strong></h1>
 
 <h1>Skills</h1>
-<div align="center">
+<div align="left">
     <table >
      <tr>
         <td><h3 align="left"> Programming Languages:</h3></td>
-        <td><b>daily.dev</b></td>
+        <td><h3 align="left"> Database:</h3></td>
      </tr>
      <tr>
        <td><a href="https://twitter.com/sunilsapkota09"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=sunilsapkota09" alt="sunil                                   sapkota twitter" > </img></a></td>
