@@ -7,7 +7,6 @@
     <tr><h3 align="left"> Programming Languages:</h3></tr>
     <tr><h3 align="left"> Programming Languages:</h3></tr>
   </tr>
-  
 </table>
 <h3 align="left"> Programming Languages:</h3>
 <p align = "left"> 
@@ -53,6 +52,17 @@
 >- Used **Python**, **Pandas**, **Regex**, and **Jupyter Notebook** for **data cleaning** and **transformation**. **GitHub** as a version control, 
 and for data visualization **Matplotlib** was used.
 >- Used **Streamlit** and **Heroku** for web application and deployment.
+
+<table>
+  <tr>
+    <th>Month</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>$100</td>
+  </tr>
+</table>
 
 
 
