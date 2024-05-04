@@ -66,18 +66,25 @@ and for data visualization **Matplotlib** was used.
 </table>
 
 
+<html>
+<body>
+
+<h2>This table has no borders:</h2>
 <table>
   <tr>
-    <th>Month</th>
-    <th>Savings</th>
+    <td>100</td>
+    <td>200</td>
+    <td>300</td>
   </tr>
   <tr>
-    <td>January</td>
-    <td>$100</td>
-  </tr>
-  <tr>
-    <td>February</td>
-    <td>$80</td>
+    <td>400</td>
+    <td>500</td>
+    <td>600</td>
   </tr>
 </table>
+
+</body>
+</html>
+
+
 
