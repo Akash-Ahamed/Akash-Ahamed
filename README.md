@@ -48,14 +48,16 @@ and for data visualization **Matplotlib** was used.
 >- Used **Streamlit** and **Heroku** for web application and deployment.
 
 
-<table> 
-  <tr> 
-    <td>Cell 1</td> 
-    <td>Cell 2</td> 
-    <td style="border:none;">Cell 3</td> 
-    <td>Cell 4</td> 
-  </tr> 
-</table> 
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <h2>Column 1</h2>
+    <p>Some text..</p>
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <h2>Column 2</h2>
+    <p>Some text..</p>
+  </div>
+</div>
 
 
 
