@@ -2,7 +2,11 @@
 <h1 align= "center">👋 Hi, I'm <strong>Akash Ahamed!</strong></h1>
 
 <h1>Skills</h1>
-<h3 align="left"> Programming Languages:</h3>
+|<h3 align="left"> Programming Languages:</h3>    | This is second line
+|                                                 |
+|
+|
+|
 <p align = "left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
