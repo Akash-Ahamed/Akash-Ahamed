@@ -65,7 +65,7 @@ and for data visualization **Matplotlib** was used.
  
 </table>
 
-
+<!DOCTYPE html>
 <html>
 <body>
 
