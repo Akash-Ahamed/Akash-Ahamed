@@ -2,16 +2,6 @@
 <h1 align= "center">👋 Hi, I'm <strong>Akash Ahamed!</strong></h1>
 
 <h1>Skills</h1>
-<table border ="0">
-  <tr>
-    <th><h3 align="left"> Programming Languages:</h3></th>
-    <th>Savings</th>
-  </tr>
-  <tr>
-    <td>January</td>
-    <td>$100</td>
-  </tr>
-</table>
 <h3 align="left"> Programming Languages:</h3>
 <p align = "left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -57,19 +47,6 @@
 and for data visualization **Matplotlib** was used.
 >- Used **Streamlit** and **Heroku** for web application and deployment.
 
-<table border ="0">
-  <tr>
-    <th>Month</th>
-    <th>Savings</th>
-  </tr>
- 
-</table>
-
-
-<TABLE BGCOLOR=CCFFFF BORDER=0 CELLSPACING=0>
-<TR>
-<TD>Cell contents</TD>
-<TD>Cell contents</TD>
 </TR>
 <TR>
 <TD>Cell contents</TD>
