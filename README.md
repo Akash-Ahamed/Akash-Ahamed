@@ -4,8 +4,12 @@
 <h1>Skills</h1>
 <table>
   <tr>
-    <tr><h3 align="left"> Programming Languages:</h3></tr>
-    <tr><h3 align="left"> Programming Languages:</h3></tr>
+    <th><h3 align="left"> Programming Languages:</h3></th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>$100</td>
   </tr>
 </table>
 <h3 align="left"> Programming Languages:</h3>
