@@ -2,7 +2,7 @@
 <h1 align= "center">👋 Hi, I'm <strong>Akash Ahamed!</strong></h1>
 
 <h1>Skills</h1>
-<table>
+<table border ="0">
   <tr>
     <th><h3 align="left"> Programming Languages:</h3></th>
     <th>Savings</th>
