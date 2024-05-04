@@ -57,7 +57,7 @@
 and for data visualization **Matplotlib** was used.
 >- Used **Streamlit** and **Heroku** for web application and deployment.
 
-<table>
+<table border ="0">
   <tr>
     <th>Month</th>
     <th>Savings</th>
