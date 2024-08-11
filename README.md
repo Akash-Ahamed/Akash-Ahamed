@@ -1,4 +1,4 @@
-.md![logo](banner2.png)
+.md![logo](Profile Banner.png)
 <h1 align= "center">👋 Hi, I'm <strong>Akash Ahamed!</strong></h1>
 
 <h1>Skills</h1>
