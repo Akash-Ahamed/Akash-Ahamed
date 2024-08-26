@@ -9,24 +9,27 @@
 
 <h1>Skills</h1>
 <h3 align="left"> Programming Languages:</h3>
->
->- Python
->- SQL
->- Dart
->- C
-
-<h3 align="left"> Programming Languages:</h3>
 <p align = "left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
   <img src="assets/sql.svg" alt="sql" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 </p>
+
+>
+>- **Python**
+>- **SQL**
+>- **Dart**
+>- **C** 
 
 <h3 align="left"> Database:</h3>
 <p align = "left"> 
   <img src="assets/mysql.svg" alt="sql" width="60" height="60"/>
 </p>
+
+>
+>- **MySQL**
+>- **Vector Database**
 
 <h3 align="left"> Analytical Tools:</h3>
 <p align = "left">
@@ -35,20 +38,37 @@
    <img src="assets/matplotlib.svg" alt="sql" width="40" height="40"/>
 </p>
 
+>
+>- **Pandas**
+>- **NumpPy**
+>- **Scikit-Learn**
+>- **Matplotlib**
+>- **Regular Expression**
+
 <h3 align="left"> Framework:</h3>
 <p align = "left">
    <img src="assets/streamlit.svg" alt="sql" width="40" height="40"/>
 </p>
+
+>
+>- **Streamlit**
 
 <h3 align="left"> Version Control:</h3>
 <p align = "left">
    <img src="assets/github.svg" alt="sql" width="40" height="40"/>
 </p>
 
+>
+>- **Git**
+>- **GitHub**
+
 <h3 align="left"> Project Management Tools:</h3>
 <p align = "left">
    <img src="assets/jira.svg" alt="sql" width="40" height="40"/>
 </p>
+
+>
+>- **Jira**
 
 
 <h1 style="color:blue;">Project</h1>
