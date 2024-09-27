@@ -31,6 +31,7 @@
 
 >
 >- **MySQL**
+>- **ChromaDB**
 >- **Vector Database**
 
 <h3 align="left"> Analytical Tools:</h3>
@@ -46,6 +47,33 @@
 >- **Scikit-Learn**
 >- **Matplotlib**
 >- **Regular Expression**
+
+<h3 align="left"> Deep Learning Technologies:</h3>
+<!-- <p align = "left">
+   <img src="assets/streamlit.svg" alt="sql" width="40" height="40"/>
+</p> -->
+
+>
+>- **Embedding**
+>- **LangChain**
+
+<h3 align="left"> Large Language Model (LLM):</h3>
+<!-- <p align = "left">
+   <img src="assets/streamlit.svg" alt="sql" width="40" height="40"/>
+</p> -->
+
+>
+>- **Llama**
+>- **HuggingFace**
+
+<h3 align="left"> Machine Learning Technologies:</h3>
+<!-- <p align = "left">
+   <img src="assets/streamlit.svg" alt="sql" width="40" height="40"/>
+</p> -->
+
+>
+>- **Linear Regression**
+
 
 <h3 align="left"> Framework:</h3>
 <p align = "left">
