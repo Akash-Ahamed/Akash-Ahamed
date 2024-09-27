@@ -110,6 +110,19 @@
 and for data visualization **Matplotlib** was used.
 >- Used **Streamlit** and **Heroku** for web application and deployment.
 
+<p style="font-size: 50px;"> <strong> <em>Cold Email Generator Tool</em> </strong>-LLMs based Cold Email Generator Tool <strong>[</strong> <strong>Python</strong> | <strong>Llama 3.1</strong> | <strong>LangChain</strong> | <strong>ChromaDB</strong> | <strong>Groq Cloud</strong> | <strong>Pandas</strong> | <strong>Streamlit</strong> <strong>]</strong> <a href="https://github.com/Akash-Ahamed/WhatsApp-Chat-Sentiment-Analysis.git">Link</a> </p> 
+
+>
+>-  Built a cold email generator tool for a service company or freelancer that extracts job skills from
+job posting web pages and generates personalized cold emails that include relevant portfolio links
+sourced based on specific job descriptions.
+>- Used **LangChain** for scraping text and LLM **Llama 3.1** for extracting job role, skills, and
+description in a JSON format.
+>- Used **Chromadb** as a vector database for stored portfolios and **Pandas** for data transformation.
+>-  Used **Groq Cloud** for handling **Llama 3.1** LLM.
+>-  Used **GitHub** as a version control, **Streamlit** for web applications, and **Python** for backend
+developments.
+
 
 
 
