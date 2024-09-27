@@ -110,7 +110,7 @@
 and for data visualization **Matplotlib** was used.
 >- Used **Streamlit** and **Heroku** for web application and deployment.
 
-<p style="font-size: 50px;"> <strong> <em>Cold Email Generator Tool</em> </strong>-LLMs based Cold Email Generator Tool <strong>[</strong> <strong>Python</strong> | <strong>Llama 3.1</strong> | <strong>LangChain</strong> | <strong>ChromaDB</strong> | <strong>Groq Cloud</strong> | <strong>Pandas</strong> | <strong>Streamlit</strong> <strong>]</strong> <a href="https://github.com/Akash-Ahamed/WhatsApp-Chat-Sentiment-Analysis.git">Link</a> </p> 
+<p style="font-size: 50px;"> <strong> <em>Cold Email Generator Tool</em> </strong>-LLMs based Cold Email Generator Tool <strong>[</strong> <strong>Python</strong> | <strong>Llama 3.1</strong> | <strong>LangChain</strong> | <strong>ChromaDB</strong> | <strong>Groq Cloud</strong> | <strong>Pandas</strong> | <strong>Streamlit</strong> <strong>]</strong> <a href="https://github.com/Akash-Ahamed/Cold-Email_Generator-Tool">Link</a> </p> 
 
 >
 >-  Built a cold email generator tool for a service company or freelancer that extracts job skills from
