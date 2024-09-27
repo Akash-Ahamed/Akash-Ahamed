@@ -1,6 +1,8 @@
 .md![logo](Profile.png)
 <h1 align= "left">👋 Hi, I'm <strong>Akash Ahamed!</strong></h1>
 
+<h2 align= "left">Machine Learning Engineer | NLP | Generative AI | LLMs | ChatBot | Embedding | LangChain</strong></h2>
+
 <h4>I am passionate about machine learning and dedicated to pushing the boundaries of artificial intelligence, natural language processing, and its applications.</h4> 
 
 <h4>I have a Bachelor of Science in Computer Science and Engineering from the University of Liberal Arts Bangladesh, where I completed a significant project on Artificial Intelligence and Machine Learning. In addition, I've worked on impactful projects, developing advanced NLP models and exploring various machine learning frameworks, libraries, generative AI, LLMs, and LangChain.</h4>
