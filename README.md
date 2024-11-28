@@ -124,5 +124,10 @@ description in a JSON format.
 developments.
 
 
+<h1 style="color:blue;">Certifications</h1>
+
+>
+>- <p style="font-size: 50px;"> <strong> <em>Python for Everybody,</em> </strong> University of Michigan, Coursera,<a href="https://coursera.org/share/a5bc10c22699f5df5076c33acff8f8f8"> Certificate</a> </p> 
+
 
 
