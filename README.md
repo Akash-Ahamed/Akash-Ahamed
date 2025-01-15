@@ -111,11 +111,11 @@
 
 >
 >- Developed a web application to monitor daily expenditures in real-time and generate detailed reports, including category-wise pie chart visualizations and date-wise expense lists, with the added capability to forecast future expenses using machine learning.
->- Utilized MongoDB as a NoSQL database to store daily expense records and fund details.
->- Implemented the frontend using React and styled it with Tailwind CSS, while Next.js was used for backend development and server-side rendering.
->- Leveraged Python, Pandas, Numpy, Scikit-learn, and Jupyter Notebook for data cleaning, preprocessing, feature engineering, model training, and saving the trained model for deployment.
->- Integrated a Random Forest Regression model into the application using Flask, which handles input data and returns predictions as JSON responses.
->- Employed GitHub for version control and Vercel for deploying the web application.
+>- Utilized **MongoDB** as a NoSQL database to store daily expense records and fund details.
+>- Implemented the **frontend** using **React** and styled it with **Tailwind CSS**, while **Next.js** was used for backend development and server-side rendering.
+>- Leveraged **Python**, **Pandas**, **Numpy**, **Scikit-learn,** and **Jupyter Notebook** for data cleaning, preprocessing, feature engineering, model training, and saving the trained model for deployment.
+>- Integrated a **Random Forest Regression** model into the application using **Flask**, which handles input data and returns predictions as **JSON** responses.
+>- Employed **GitHub** for version control and **Vercel** for deploying the web application.
 
 
 <p style="font-size: 50px;"> <strong> <em>WhatsApp Chat Analyzer</em> </strong>-Statistical Analysis WebApp <strong>[</strong> <strong>Python</strong> | <strong>Pandas</strong> | <strong>Matplotlib</strong> | <strong>Streamlit</strong> | <strong>Heroku</strong> <strong>]</strong> <a href="https://github.com/Akash-Ahamed/WhatsApp-Chat-Sentiment-Analysis.git">Link</a> </p> 
