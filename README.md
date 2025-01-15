@@ -80,6 +80,7 @@
 <h3 align="left"> Web Development:</h3>
 <p align = "left">
    <img src="assets/streamlit.svg" alt="sql" width="40" height="40"/>
+   <img src="assets/react.svg" alt="sql" width="40" height="40"/>
 </p>
 
 >
