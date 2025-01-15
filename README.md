@@ -107,7 +107,7 @@
 
 
 <h1 style="color:blue;">Project</h1>
-<p style="font-size: 50px;"> <strong> <em>Expense Tracking Application</em> </strong>-Machine Learning-Based Daily Expense Tracking Web Application.<strong>[</strong> <strong>React</strong> |<strong>Next.js</strong> |<strong>MongoDB</strong> |<strong>Python</strong> |<strong>Flask</strong> |<strong>Random Forest Regression</strong> | <strong>Vercel</strong>  <strong>]</strong> <a href="https://expense-tracker-web-application-blue.vercel.app/">Live Demo</a> </p> 
+<p style="font-size: 50px;"> <strong> <em>Expense Tracking Application</em> </strong>-Machine Learning-Based Daily Expense Tracking Web Application <strong>[</strong> <strong>React</strong> | <strong>Next.js</strong> | <strong>MongoDB</strong> | <strong>Python</strong> | <strong>Flask</strong> | <strong>Random Forest Regression</strong> | <strong>Vercel</strong>  <strong>]</strong> <a href="https://expense-tracker-web-application-blue.vercel.app/">Live Demo</a> </p> 
 
 >
 >- Built a WhatsApp chat analysis web application that can analyze WhatsApp group or single chats.
