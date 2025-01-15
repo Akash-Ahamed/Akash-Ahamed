@@ -31,8 +31,9 @@
 
 >
 >- **MySQL**
+>- **MongoDB (NoSQL)**
 >- **ChromaDB**
->- **Vector Database**
+>- **FAISS**
 
 <h3 align="left"> Analytical Tools:</h3>
 <p align = "left">
@@ -73,14 +74,18 @@
 
 >
 >- **Linear Regression**
+>- **Random Forest Regression**
 
 
-<h3 align="left"> Framework:</h3>
+<h3 align="left"> Web Development:</h3>
 <p align = "left">
    <img src="assets/streamlit.svg" alt="sql" width="40" height="40"/>
 </p>
 
 >
+>- **React**
+>- **Next.js**
+>- **Flask**
 >- **Streamlit**
 
 <h3 align="left"> Version Control:</h3>
