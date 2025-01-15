@@ -27,6 +27,7 @@
 <h3 align="left"> Database:</h3>
 <p align = "left"> 
   <img src="assets/mysql.svg" alt="sql" width="60" height="60"/>
+  <img src="assets/mongodb.svg" alt="sql" width="60" height="60"/>
 </p>
 
 >
