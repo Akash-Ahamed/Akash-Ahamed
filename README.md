@@ -107,6 +107,14 @@
 
 
 <h1 style="color:blue;">Project</h1>
+<p style="font-size: 50px;"> <strong> <em>Expense Tracking Application</em> </strong>-Machine Learning-Based Daily Expense Tracking Web Application.<strong>[</strong> <strong>React</strong> |<strong>Next.js</strong> |<strong>MongoDB</strong> |<strong>Python</strong> |<strong>Flask</strong> |<strong>Random Forest Regression</strong> | <strong>Vercel</strong>  <strong>]</strong> <a href="https://expense-tracker-web-application-blue.vercel.app/">Live Demo</a> </p> 
+
+>
+>- Built a WhatsApp chat analysis web application that can analyze WhatsApp group or single chats.
+>- Used **Python**, **Pandas**, **Regex**, and **Jupyter Notebook** for **data cleaning** and **transformation**. **GitHub** as a version control, 
+and for data visualization **Matplotlib** was used.
+>- Used **Streamlit** and **Heroku** for web application and deployment.
+
 <p style="font-size: 50px;"> <strong> <em>WhatsApp Chat Analyzer</em> </strong>-Statistical Analysis WebApp <strong>[</strong> <strong>Python</strong> | <strong>Pandas</strong> | <strong>Matplotlib</strong> | <strong>Streamlit</strong> | <strong>Heroku</strong> <strong>]</strong> <a href="https://github.com/Akash-Ahamed/WhatsApp-Chat-Sentiment-Analysis.git">Link</a> </p> 
 
 >
