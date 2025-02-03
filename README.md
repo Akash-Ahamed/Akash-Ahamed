@@ -153,8 +153,7 @@ developments.
 <h1>Experience</h1>
 
 >
-> <h3 align="left"> Software Engineer</h3>
-> **Techdojo Limited** - Internship
-> Feb 2025 - Present
+> <p style="font-size: 150px;"> <strong> Software Engineer</strong></p>
 > <p style="font-size: 50px;"> <strong> Techdojo Limited </strong>-Internship <strong></strong></p>
+> Feb 2025 - Present
 
