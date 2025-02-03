@@ -150,5 +150,11 @@ developments.
 >- <p style="font-size: 50px;"> <strong> <em>Python for Everybody,</em> </strong> University of Michigan, Coursera,<a href="https://coursera.org/share/a5bc10c22699f5df5076c33acff8f8f8"> Certificate</a> </p> 
 >- <p style="font-size: 50px;"> <strong> <em>Python Data Structures,</em> </strong> University of Michigan, Coursera,<a href="https://www.coursera.org/account/accomplishments/verify/1IKK1V5OBAJ5"> Certificate</a> </p> 
 
+<h1>Experience</h1>
 
+>
+> <h3 align="left"> Software Engineer</h3>
+> **Techdojo Limited** - Internship
+> Feb 2025 - Present
+> <p style="font-size: 50px;"> <strong> Techdojo Limited </strong>-Internship <strong></strong></p>
 
